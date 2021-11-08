@@ -17,6 +17,7 @@ As the official package is not responsible to support custom chain, feel free to
 | Harmony                       | 0xd1AE3C177E13ac82E667eeEdE2609C98c69FF684 |
 | Celo                          | 0xfEEaa3989087F2c9eB4e920D57Df0A3F83486414 |
 | Moonriver                     | 0x814C1C56815D52b58d7254424c15307e7363E016 |
+| Cronos                        | 0xd1AE3C177E13ac82E667eeEdE2609C98c69FF684 |
 
 ## Usage 
 
